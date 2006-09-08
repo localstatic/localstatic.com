@@ -1,0 +1,91 @@
+
+body {
+	margin: 0em;
+	padding: 0em;
+}
+
+#container {
+	width: 90%;
+	margin: 0 5%;
+}
+
+#logo {
+	padding: 0.5em;
+}
+
+#content {
+	padding: 0em 1em;
+	margin: 1em 1em 1em 6em;
+}
+
+#nav {
+	float: left;
+	border: 0px;
+	width: 6em;
+	padding: 0;
+	margin: 1em 0em;
+}
+
+#nav .navhead {
+	padding: 0.5em;
+}
+
+#nav ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+#nav ul li {
+}
+
+#nav ul li a {
+	display: block;
+	margin: 0em;
+	padding: 0.5em;
+}
+
+#nav ul li.selected a {
+}
+
+.column {
+	padding: 0.5em;
+	float: left;
+}
+
+.column h4 {
+	margin: 0 0 -0.7em 0;
+	padding: 0;
+} 
+
+.column h4 a { 
+	text-decoration: underline;
+}
+
+.column ul {
+	margin-left: 0;
+	padding-left: 0;
+	list-style: none;
+}
+
+#search {
+	clear: both;
+}
+
+#footer {
+	clear: both;
+	/*
+	float: left;
+	*/
+	padding: 0.5em;
+	height: 2.5em;
+}
+
+#meta {
+	float: left;
+}
+
+#icons {
+	float: right;
+}
+
