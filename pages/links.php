@@ -13,14 +13,16 @@
     <li><a href="http://slashdot.org/">Slashdot</a></li>
    </ul>
 
-   <h4>Humor</h4>
+   <h4>Devel Docs</h4>
    <ul>
-    <li><a href="http://www.dilbert.com/">Dilbert</a></li>
-    <li><a href="http://www.userfriendly.org/static/">User Friendly</a></li>
-    <li><a href="http://www.penny-arcade.com/view.php3">Penny Arcade</a></li>
-    <li><a href="http://www.ctrlaltdel-online.com/index.php?t=archives&amp;date=last">Ctrl+Alt+Del</a></li>
+     <li><a href="http://www.php.net/manual/en/langref.php">PHP Manual</a></li>
+     <li><a href="http://dev.mysql.com/doc/mysql/en/index.html">MySQL Manual</a></li>
+     <li><a href="http://www.w3.org/TR/html401/">HTML 4.01</a></li>
+     <li><a href="http://www.w3.org/TR/xhtml1/">XHTML 1.0</a></li>
+     <li><a href="http://www.w3.org/TR/REC-CSS2/">CSS 2</a></li>
+	 <li><a href="http://java.sun.com/j2se/1.5.0/docs/api/">Java API</a></li>
    </ul>
-   
+
   </div> <!-- column -->
 
   <div class="column">
@@ -32,15 +34,12 @@
 	<li><a href="http://www.last.fm/user/localstatic/">Last.fm</a></li>
    </ul>
 
-   <h4>Devel Docs</h4>
+   <h4>Games</h4>
    <ul>
-     <li><a href="http://www.php.net/manual/en/langref.php">PHP Manual</a></li>
-     <li><a href="http://dev.mysql.com/doc/mysql/en/index.html">MySQL Manual</a></li>
-     <li><a href="http://www.w3.org/TR/html401/">HTML 4.01</a></li>
-     <li><a href="http://www.w3.org/TR/xhtml1/">XHTML 1.0</a></li>
-     <li><a href="http://www.w3.org/TR/REC-CSS2/">CSS 2</a></li>
-	 <li><a href="http://java.sun.com/j2se/1.5.0/docs/api/">Java API</a></li>
+	<li><a href="http://www.handdrawngames.com/DesktopTD/">Desktop TD</a></li>
+	<li><a href="http://standard.1000ad.net/">1000 AD</a></li>
    </ul>
+ 
   </div> <!-- column -->
 
   <div class="column">
@@ -54,12 +53,6 @@
 	<li><a href="http://www.flickr.com/">Flickr</a></li>
    </ul>
 
-   <h4>Games</h4>
-   <ul>
-	<li><a href="http://www.handdrawngames.com/DesktopTD/">Desktop Tower Defense</a></li>
-	<li><a href="http://standard.1000ad.net/">1000 AD</a></li>
-   </ul>
-   
   </div> <!-- column -->
 
  </div>
