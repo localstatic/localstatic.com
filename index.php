@@ -5,6 +5,8 @@ $email_address = 'localstatic@gmail.com';
 
 $pages = array('main', 'links', 'about', 'contact', 'gpgkey');
 
+$pages[] = 'links-work';
+
 $pages[] = 'linux';
 $pages[] = 'linux-nforce';
 
