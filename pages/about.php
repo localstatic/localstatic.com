@@ -1,3 +1,6 @@
+<?php
+$page_title = 'About';
+?>
 
 <h2>About localstatic.com</h2>
 <p>
@@ -6,6 +9,6 @@ localstatic.com is my personal website and test bed for any development projects
 
 <h2>About Me</h2>
 <p>
-Some crap about me will be here at some point.
+I may put something about myself here at some point...
 </p>
 

@@ -1,3 +1,7 @@
+<?php
+$page_title = 'nForce2 and Linux';
+?>
+
 <h2>nForce2 and Linux</h2>
 <h3>Introduction</h3>
 <p>

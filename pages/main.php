@@ -1,3 +1,7 @@
+<?php
+$page_title = '';
+?>
+
 <p>
 Welcome to localstatic.com.
 </p><p>

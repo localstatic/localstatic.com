@@ -1,3 +1,7 @@
+<?php
+$page_title = 'Links';
+?>
+
  <div>
   <p>
    I use this page as my browsers' home page.  It is designed accordingly.

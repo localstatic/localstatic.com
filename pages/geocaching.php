@@ -1,3 +1,7 @@
+<?php
+$page_title = 'Geocaching';
+?>
+
 <h3>Introduction</h3>
 
 <p>

@@ -1,3 +1,7 @@
+<?php
+$page_title = 'Slackware on Toshiba Satellite 2100CDT';
+?>
+
  <h2>Slackware Linux on a Toshiba Satellite 2100CDT</h2>
  <p>
   <b>This document describes the steps I took to get Linux on my laptop.  I don't guarantee that any of this will work for you.  I take no responsibility for any damage caused by following these instructions.</b>

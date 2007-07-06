@@ -1,3 +1,7 @@
+<?php
+$page_title = 'RedHat on Toshiba Satellite 2100CDT';
+?>
+
 <h2>RedHat Linux on a Toshiba Satellite 2100CDT</h2>
 
  <h3>Introduction</h3>
