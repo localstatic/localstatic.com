@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
  <title>localstatic.com<?php if ("" != $page_title) echo " - " . $page_title; ?></title>
- <link rel="stylesheet" type="text/css" href="../style.css"/>
+ <link rel="stylesheet" type="text/css" href="style.css"/>
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 </head>
 <body>
