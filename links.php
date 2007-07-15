@@ -41,7 +41,6 @@ $page_title = 'Links';
    <h4>Games</h4>
    <ul>
 	<li><a href="http://www.handdrawngames.com/DesktopTD/">Desktop TD</a></li>
-	<li><a href="http://standard.1000ad.net/">1000 AD</a></li>
    </ul>
  
   </div> <!-- column -->
