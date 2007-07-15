@@ -1,0 +1,93 @@
+/*
+Color scheme based on
+	Daily Color Scheme: Arabian Belly dancing
+	http://beta.dailycolorscheme.com/archive/2006/09/09
+		color: #3F3F30;
+		color: #330000;
+		color: #670000;
+		color: #A31B00;
+		color: #C24400;
+		color: #DD6100;
+		color: #EFEFC1;
+*/
+
+body {
+	color: #EFEFC1;
+	background-color: #3F3F30;
+}
+
+a {
+	color: #330000;
+	background-color: #EFEFC1;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #A31B00;
+	background-color: #EFEFC1;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #DD6100;
+	background-color: #EFEFC1;
+	text-decoration: underline;
+}
+
+#logo {
+	color: #EFEFC1;
+	background-color: #670000;
+}
+
+#logo a {
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #EFEFC1;
+	background-color: #670000;
+	text-decoration: none;
+}
+
+#container {
+	color: #333333;
+	background-color: #EFEFC1;
+}
+
+#content {
+	min-height: 25em;
+}
+
+#nav {
+	color: #EFEFC1;
+	background-color: #670000;
+}
+
+#nav ul {
+}
+
+#nav ul li {
+	display: inline;
+}
+
+#nav ul li.selected a {
+}
+
+#nav ul li a {
+	color: #EFEFC1;
+	background-color: #670000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#nav ul li a:hover {
+	text-decoration: none;
+}
+
+#footer {
+	border-top: 1px solid black;
+}
+
+#footer a {
+}
+
+
+
