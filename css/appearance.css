@@ -1,0 +1,14 @@
+/*
+ * Central stylesheet for common appearance elements and
+ * for importing the "scheme" stylesheet
+ */
+
+/*
+@import url('appearance-arabian_belly_dancing.css');
+*/
+@import url('appearance-mountain_dawn.css');
+
+.nocss {
+	display: none;
+}
+
