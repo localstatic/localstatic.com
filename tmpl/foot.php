@@ -5,7 +5,7 @@
   <div id="meta">
     <a href="mailto:localstatic@localstatic.com">Morgan Terry</a><br/>
     <?php
-    echo date('r', filemtime($include_file));
+    //echo date('r', filemtime($include_file));
     ?>
   </div>
 
