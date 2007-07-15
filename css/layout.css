@@ -1,0 +1,7 @@
+/*
+ * Central stylesheet for common layout styles and
+ * for importing the "theme layout" stylesheet
+ */
+
+@import url('layout-navtop.css');
+
