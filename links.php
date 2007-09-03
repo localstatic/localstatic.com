@@ -14,6 +14,7 @@ $page_title = 'Links';
     <li><a href="https://www.bloglines.com/myblogs">Bloglines</a></li>
     <li><a href="http://www.digg.com/">Digg</a></li>
     <li><a href="http://reddit.com/">reddit</a></li>
+    <li><a href="http://programming.reddit.com/">programming.reddit</a></li>
     <li><a href="http://slashdot.org/">Slashdot</a></li>
    </ul>
 
@@ -21,6 +22,7 @@ $page_title = 'Links';
    <ul>
      <li><a href="http://www.php.net/manual/en/langref.php">PHP Manual</a></li>
      <li><a href="http://dev.mysql.com/doc/mysql/en/index.html">MySQL Manual</a></li>
+     <li><a href="http://pear.php.net/manual/en/package.database.db.php">PEAR::DB</a></li>
      <li><a href="http://www.w3.org/TR/html401/">HTML 4.01</a></li>
      <li><a href="http://www.w3.org/TR/xhtml1/">XHTML 1.0</a></li>
      <li><a href="http://www.w3.org/TR/REC-CSS2/">CSS 2</a></li>
@@ -46,14 +48,9 @@ $page_title = 'Links';
   </div> <!-- column -->
 
   <div class="column">
-   <h4>Bookmarks</h4>
-   <ul>
-    <li><a href="http://del.icio.us/localstatic">del.icio.us</a></li>
-   </ul>
-
    <h4>Misc</h4>
    <ul>
-	<li><a href="http://www.flickr.com/">Flickr</a></li>
+    <li><a href="http://del.icio.us/localstatic">del.icio.us</a></li>
    </ul>
 
   </div> <!-- column -->
