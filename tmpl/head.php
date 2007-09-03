@@ -21,7 +21,6 @@
   <li><a href="geocaching.php">Geocaching</a></li>
   <li><a href="links.php">Links</a></li>
   <li><a href="contact.php">Contact</a></li>
-  <li><a href="about.php">About</a></li>
  </ul>
 </div>
 
