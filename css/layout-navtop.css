@@ -1,12 +1,18 @@
 
+html {
+	height: 100%;
+}
+
 body {
 	margin: 0em;
 	padding: 0em;
+	height: 100%;
 }
 
 #container {
 	margin: 0 10%;
 	width: 80%;
+	min-height: 100%;
 }
 
 #logo {

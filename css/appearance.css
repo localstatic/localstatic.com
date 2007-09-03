@@ -5,8 +5,9 @@
 
 /*
 @import url('appearance-arabian_belly_dancing.css');
-*/
 @import url('appearance-mountain_dawn.css');
+*/
+@import url('appearance-defaultlinks.css');
 
 .nocss {
 	display: none;
