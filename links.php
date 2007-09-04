@@ -12,8 +12,6 @@ $page_title = 'Links';
    <ul>
     <li><a href="http://reader.google.com/">Google Reader</a></li>
     <li><a href="https://www.bloglines.com/myblogs">Bloglines</a></li>
-    <li><a href="http://www.digg.com/">Digg</a></li>
-    <li><a href="http://reddit.com/">reddit</a></li>
     <li><a href="http://programming.reddit.com/">programming.reddit</a></li>
     <li><a href="http://slashdot.org/">Slashdot</a></li>
    </ul>
