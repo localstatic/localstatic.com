@@ -20,7 +20,7 @@ $page_title = 'Links';
    <ul>
      <li><a href="http://www.php.net/manual/en/langref.php">PHP Manual</a></li>
      <li><a href="http://dev.mysql.com/doc/mysql/en/index.html">MySQL Manual</a></li>
-     <li><a href="http://pear.php.net/manual/en/package.database.db.php">PEAR::DB</a></li>
+     <li><a href="http://www.php.net/pdo">PHP PDO</a></li>
      <li><a href="http://www.w3.org/TR/html401/">HTML 4.01</a></li>
      <li><a href="http://www.w3.org/TR/xhtml1/">XHTML 1.0</a></li>
      <li><a href="http://www.w3.org/TR/REC-CSS2/">CSS 2</a></li>
