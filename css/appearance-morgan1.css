@@ -1,0 +1,89 @@
+/*
+Color Scheme "Morgan1"
+		color: #610606; // Dark Red
+		color: #C9B385; // Tan
+		color: #2B3742; // Dark Blue
+		color: #141501; // Dark Brown
+		color: #F5F3F0; // Light Gray
+*/
+
+body {
+	color: #1F1501;
+	background-color: #F5F3F0;
+}
+
+a {
+	color: #2B3742;
+	background-color: #FFFFFF;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #C9B385;
+	background-color: #FFFFFF;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #610606;
+	background-color: #FFFFFF;
+	text-decoration: underline;
+}
+
+#logo {
+	color: #FFFFFF;
+	background-color: #610606;
+}
+
+#logo a {
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #610606;
+	text-decoration: none;
+}
+
+#container {
+	color: #141501;
+	background-color: #FFFFFF;
+}
+
+#content {
+	min-height: 25em;
+}
+
+#nav {
+	color: #F5F3F0;
+	background-color: #610606;
+}
+
+#nav ul {
+}
+
+#nav ul li {
+	display: inline;
+}
+
+#nav ul li.selected a {
+}
+
+#nav ul li a {
+	color: #FFFFFF;
+	background-color: #610606;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#nav ul li a:hover {
+	text-decoration: none;
+}
+
+#footer {
+	border-top: 1px solid black;
+}
+
+#footer a {
+}
+
+
+
