@@ -1,5 +1,7 @@
 <?php
 $page_title = '';
+
+include 'tmpl/head.php';
 ?>
 
 <p>
@@ -8,3 +10,6 @@ Welcome to localstatic.com.
 This site is my personal homepage. If you have any questions or comments, feel free to contact me.
 </p>
 
+<?php
+include 'tmpl/foot.php';
+?>

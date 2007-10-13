@@ -1,5 +1,7 @@
 <?php
 $page_title = 'Slackware on Toshiba Satellite 2100CDT';
+
+include 'tmpl/head.php';
 ?>
 
  <h2>Slackware Linux on a Toshiba Satellite 2100CDT</h2>
@@ -59,3 +61,7 @@ $page_title = 'Slackware on Toshiba Satellite 2100CDT';
  <p>
   Over all, the 2100CDT is a pretty good machine.  The only thing I wish it had was a port replicator connection.  I didn't have any major problems getting Linux set up on it.  I would recommend it to someone wanting a good laptop for a fairly good price. 
  </p>
+
+<?php
+include 'tmpl/foot.php';
+?>

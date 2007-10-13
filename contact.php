@@ -1,5 +1,7 @@
 <?php
 $page_title = 'Contact Info';
+
+include 'tmpl/head.php';
 ?>
 
 <p>
@@ -9,3 +11,8 @@ My PGP key is:
 include 'gpgkey.php';
 ?>
 </p>
+
+<?php
+include 'tmpl/foot.php';
+?>
+

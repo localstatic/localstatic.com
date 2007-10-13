@@ -1,5 +1,7 @@
 <?php
 $page_title = 'Links';
+
+include 'tmpl/head.php';
 ?>
 
  <div>
@@ -63,4 +65,7 @@ $page_title = 'Links';
   </form>
  </div> <!-- search div -->
 
+<?php
+include 'tmpl/foot.php';
+?>
 

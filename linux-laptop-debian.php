@@ -1,5 +1,7 @@
 <?php
 $page_title = 'Debian on Toshiba Satellite 2100CDT';
+
+include 'tmpl/head.php';
 ?>
 
 <h2>Debian GNU/Linux on a Toshiba Satellite 2100CDT</h2>
@@ -27,3 +29,6 @@ $page_title = 'Debian on Toshiba Satellite 2100CDT';
   As much as I hate to say this, Debian is not a distribution I would recommend as a first install.  At least not on this particular machine.  It may be easier on a desktop machine, but the apparently non-working PCMCIA system in the installer is a major drawback, in my opinion.  It wasn't hard, per se, to set up, but it definitely required some existing Linux knowledge.  I don't think someone new to Linux could have done this install.  If you are new, I would recommend <a href="http://www.slackware.com">Slackware</a> or <a href="http://www.redhat.com/">Red Hat</a>.  My last Slackware install was completely painless, but did require me to manually configure X.  My last Red Hat install is documented <a href="linux-laptop-redhat.php">here</a> so you can check that out if you're interested.
  </p>
 
+<?php
+include 'tmpl/foot.php';
+?>

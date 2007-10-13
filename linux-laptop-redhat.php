@@ -1,5 +1,7 @@
 <?php
 $page_title = 'RedHat on Toshiba Satellite 2100CDT';
+
+include 'tmpl/head.php';
 ?>
 
 <h2>RedHat Linux on a Toshiba Satellite 2100CDT</h2>
@@ -61,5 +63,7 @@ $page_title = 'RedHat on Toshiba Satellite 2100CDT';
   (Update - 2/7/02) I've decided to nuke this install and move on. I went through all the config files, and found that everything is the same as my previously working Debian install.  Beats me why I had problems w/ RedHat.  Aside from the PCMCIA problems, though, it is a decent system.  A little too dumbed down for me though.  I like working primarily with the command line, only using X when I want to browse the web or have several shell windows up at the same time.  The graphical tools would no doubt be nice for a beginner, but they're not for me.  I'm going to try out Slackware 8.0 next, then OpenBSD.  I may stick with one of them, or I may put Debian back on.  We'll soon see...  I will probably come back to RedHat just to figure out what the hell is going on though.  This really bothers me that a distribution that is so well known for being easy to install and use has a problem in something as important as PCMCIA.  It has to be something simple that I am overlooking.
  </p>
 
-</page>
+<?php
+include 'tmpl/foot.php';
+?>
 

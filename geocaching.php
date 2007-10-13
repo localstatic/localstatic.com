@@ -1,5 +1,7 @@
 <?php
 $page_title = 'Geocaching';
+
+include 'tmpl/head.php';
 ?>
 
 <h3>Introduction</h3>
@@ -45,4 +47,7 @@ Aside from the basics of Geocaching and Linux, there are a variety of other GPS 
 <a href="http://www.geocaching.com/"><img src="images/geocaching.png" alt="Let's Go Geocaching" border="0" width="88" height="31"/></a>
 </p>
 
+<?php
+include 'tmpl/foot.php';
+?>
 

@@ -1,5 +1,8 @@
 <?php
 $page_title = 'Linux';
+
+include 'tmpl/head.php';
+
 ?>
 
  <h2>Linux</h2>
@@ -9,6 +12,6 @@ $page_title = 'Linux';
    <dt><a href="linux-nforce.php">Linux and nForce2</a></dt><dd>Documents my success with Linux on the nForce2 chipset. I wrote this because when I was researching motherboards, all I was finding were problem reports with this chipset. I ended up getting one of the boards anyway, and have had no troubles whatsoever. This document is mainly intended to help ease the worries of anyone looking for such success stories with this chipset.</dd>
   </dl>
  </div>
- <p>
-
- </p> 
+<?php
+include 'tmpl/foot.php';
+?>
