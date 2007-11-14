@@ -3,5 +3,9 @@
  * for importing the "theme layout" stylesheet
  */
 
+/*
+@import url('layout-navleft.css');
 @import url('layout-navtop.css');
+*/
+@import url('layout-navleft-3col.css');
 
