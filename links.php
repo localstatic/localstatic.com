@@ -13,9 +13,11 @@ include 'tmpl/head.php';
    <h4>News</h4>
    <ul>
     <li><a href="http://reader.google.com/">Google Reader</a></li>
-    <li><a href="https://www.bloglines.com/myblogs">Bloglines</a></li>
+    <li><a href="https://beta.bloglines.com/">Bloglines Beta</a></li>
     <li><a href="http://reddit.com/">reddit</a></li>
-    <li><a href="http://programming.reddit.com/">programming.reddit</a></li>
+    <li><a href="http://slashdot.org/">Slashdot</a></li>
+    <li><a href="http://kuro5hin.org/">kuro5hin</a></li>
+    <li><a href="http://digg.com/">digg</a></li>
    </ul>
 
    <h4>Devel Docs</h4>
@@ -68,4 +70,5 @@ include 'tmpl/head.php';
 <?php
 include 'tmpl/foot.php';
 ?>
+
 
