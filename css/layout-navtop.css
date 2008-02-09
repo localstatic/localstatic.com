@@ -16,7 +16,7 @@ body {
 }
 
 #logo {
-	padding: 0.5em;
+	padding: 5px 10px;
 }
 
 #content {
@@ -27,7 +27,7 @@ body {
 #nav {
 	border: 0px;
 	text-align: left;
-	padding-right: 1em;
+	padding: 0 10px;
 }
 
 #nav ul {
