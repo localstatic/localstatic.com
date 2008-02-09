@@ -16,10 +16,20 @@ include 'tmpl/head.php';
     <li><a href="https://beta.bloglines.com/">Bloglines Beta</a></li>
     <li><a href="http://reddit.com/">reddit</a></li>
     <li><a href="http://slashdot.org/">Slashdot</a></li>
-    <li><a href="http://kuro5hin.org/">kuro5hin</a></li>
     <li><a href="http://digg.com/">digg</a></li>
+	<li><a href="http://news.ycombinator.com/">news.yc</a></li>
    </ul>
 
+   <h4>Music</h4>
+   <ul>
+    <li><a href="http://www.pandora.com/">Pandora</a></li>
+    <li><a href="http://music.yahoo.com/launchcast/station.asp?u=316190019">Launch (localstatic)</a></li>
+    <li><a href="http://music.yahoo.com/launchcast/station.asp?u=1424614547">Launch (zombie-m)</a></li>
+	<li><a href="http://www.last.fm/user/localstatic/">Last.fm</a></li>
+   </ul>
+  </div> <!-- column -->
+
+  <div class="column">
    <h4>Devel Docs</h4>
    <ul>
      <li><a href="http://www.php.net/manual/en/langref.php">PHP Manual</a></li>
@@ -30,23 +40,6 @@ include 'tmpl/head.php';
      <li><a href="http://www.w3.org/TR/REC-CSS2/">CSS 2</a></li>
 	 <li><a href="http://java.sun.com/j2se/1.5.0/docs/api/">Java API</a></li>
    </ul>
-
-  </div> <!-- column -->
-
-  <div class="column">
-   <h4>Music</h4>
-   <ul>
-    <li><a href="http://www.pandora.com/">Pandora</a></li>
-    <li><a href="http://music.yahoo.com/launchcast/station.asp?u=316190019">Launch (localstatic)</a></li>
-    <li><a href="http://music.yahoo.com/launchcast/station.asp?u=1424614547">Launch (zombie-m)</a></li>
-	<li><a href="http://www.last.fm/user/localstatic/">Last.fm</a></li>
-   </ul>
-
-   <h4>Games</h4>
-   <ul>
-	<li><a href="http://www.handdrawngames.com/DesktopTD/">Desktop TD</a></li>
-   </ul>
- 
   </div> <!-- column -->
 
   <div class="column">
