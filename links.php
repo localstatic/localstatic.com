@@ -25,7 +25,7 @@ include 'tmpl/head.php';
 			<li><a href="http://music.yahoo.com/launchcast/station.asp?u=1424614547">Launch (zombie-m)</a></li>
 			<li><a href="http://www.last.fm/user/localstatic/">Last.fm</a></li>
 		</ul>
-	</div> <!-- column -->
+	</div> <!-- /column -->
 	
 	<div class="column">
 		<h4>Devel Docs</h4>
@@ -38,14 +38,14 @@ include 'tmpl/head.php';
 			<li><a href="http://www.w3.org/TR/REC-CSS2/">CSS 2</a></li>
 			<li><a href="http://java.sun.com/j2se/1.5.0/docs/api/">Java API</a></li>
 		</ul>
-	</div> <!-- column -->
+	</div> <!-- /column -->
 	
 	<div class="column">
 		<h4>Misc</h4>
 		<ul>
 			<li><a href="http://del.icio.us/localstatic">del.icio.us</a></li>
 		</ul>
-	</div> <!-- column -->
+	</div> <!-- /column -->
 </div>
 
 <div id="search">
@@ -54,7 +54,7 @@ include 'tmpl/head.php';
 		<input type="text" name="q" size="25" maxlength="255" value="" />
 		<input type="submit" name="btnG" value="Go" />
 	</form>
-</div> <!-- search div -->
+</div> <!-- /search -->
 
 <?php
 include 'tmpl/foot.php';
