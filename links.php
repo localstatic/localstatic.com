@@ -15,7 +15,6 @@ include 'tmpl/head.php';
 			<li><a href="http://reddit.com/">reddit</a></li>
 			<li><a href="http://slashdot.org/">Slashdot</a></li>
 			<li><a href="http://digg.com/">digg</a></li>
-			<li><a href="http://news.ycombinator.com/">news.yc</a></li>
 		</ul>
 		
 		<h4>Music</h4>
