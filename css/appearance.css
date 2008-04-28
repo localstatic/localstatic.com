@@ -5,11 +5,13 @@
 
 /*
 @import url('appearance-arabian_belly_dancing.css');
-@import url('appearance-mountain_dawn.css');
 @import url('appearance-defaultlinks.css');
-@import url('appearance-morgan1.css');
-*/
 @import url('appearance-green.css');
+@import url('appearance-mountain_dawn.css');
+@import url('appearance-morgan1.css');
+@import url('appearance-blue.css');
+*/
+@import url('appearance-morgan2.css');
 
 .nocss {
 	display: none;
