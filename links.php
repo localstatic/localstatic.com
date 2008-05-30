@@ -40,9 +40,10 @@ include 'tmpl/head.php';
 	</div> <!-- /column -->
 	
 	<div class="column">
-		<h4>Misc</h4>
+		<h4>Social</h4>
 		<ul>
 			<li><a href="http://del.icio.us/localstatic">del.icio.us</a></li>
+			<li><a href="http://steamcommunity.com/profiles/76561197991347345">Steam</a></li>
 		</ul>
 	</div> <!-- /column -->
 </div>
