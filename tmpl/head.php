@@ -19,6 +19,7 @@
 			<li><a href=".">Home</a></li>
 			<li><a href="linux.php">Linux</a></li>
 			<li><a href="geocaching.php">Geocaching</a></li>
+			<li><a href="projects.php">Projects</a></li>
 			<li><a href="links.php">Links</a></li>
 			<li><a href="contact.php">Contact</a></li>
 		</ul>
