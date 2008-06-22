@@ -1,18 +1,16 @@
 
-html {
+html,body {
 	height: 100%;
 }
 
 body {
 	margin: 0em;
 	padding: 0em;
-	height: 100%;
 }
 
 #container {
-	margin: 0 10%;
+	margin: 0 auto;
 	width: 80%;
-	min-height: 100%;
 }
 
 #logo {
