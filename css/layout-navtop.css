@@ -1,15 +1,11 @@
 
-html,body {
-	height: 100%;
-}
-
 body {
 	margin: 0em;
 	padding: 0em;
 }
 
 #container {
-	margin: 0 auto;
+	margin: 0 auto 3em auto;
 	width: 80%;
 }
 
