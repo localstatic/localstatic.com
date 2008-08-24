@@ -30,7 +30,7 @@ include 'tmpl/head.php';
 	<li><a href="http://www.clayjar.com/gcrs/">Geocache Rating System</a> - For rating caches that you're placing</li>
 	<li><a href="http://www.cachunuts.com/">Utah Cache Games</a></li>
 	<li><a href="http://gpsbabel.sourceforge.net/">GPSBabel</a> - Nice for loading waypoints to a GPSr</li>
-	<li><a href="http://toadstool.se/hacks/geotoad/">GeoToad</a> - Can download caches to a lot of different formats</li>
+	<li><a href="http://geotoad.sourceforge.net/">GeoToad</a> - Can download caches to a lot of different formats</li>
 </ul>
 
 <p><a href="http://www.geocaching.com/"><img src="images/geocaching.png" alt="Let's Go Geocaching" border="0" width="88" height="31" /></a></p>
