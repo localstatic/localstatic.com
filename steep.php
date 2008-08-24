@@ -4,6 +4,8 @@ $page_title = 'Steep';
 include 'tmpl/head.php';
 ?>
 <h2>Steep</h2>
+
+<img src="images/screenshot-steep.png" width="243" height="188" style="float: right; margin: 5px;"/>
 <p>
 Steep is a tea timer application written in Python &amp; using PyGTK and Glade for the GUI. I wrote it so that I could use the same program on Linux and Windows. It runs on both platforms, assuming the prerequisites are installed. It likely will run on other platforms as well, but I have not tested this.
 </p>
