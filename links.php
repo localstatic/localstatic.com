@@ -10,7 +10,7 @@ include 'tmpl/head.php';
 	<div class="column">
 		<h4>News</h4>
 		<ul>
-			<li><a href="http://reader.google.com/">Google Reader</a></li>
+			<li><a href="https://www.google.com/reader/view/">Google Reader</a></li>
 			<!--
 			<li><a href="https://beta.bloglines.com/">Bloglines Beta</a></li>
 			-->
