@@ -50,7 +50,7 @@ THE SOFTWARE.</p>
 
 <h3>Download</h3>
 <p>
-<a href="files/steep.tgz">Download</a>
+<a href="files/steep.tar.gz">Download</a>
 </p>
 
 <?php
