@@ -18,13 +18,11 @@ include 'tmpl/head.php';
 			<li><a href="http://slashdot.org/">Slashdot</a></li>
 			<li><a href="http://digg.com/">digg</a></li>
 		</ul>
-		
-		<h4>Music</h4>
+
+		<h4>Finance</h4>
 		<ul>
-			<li><a href="http://www.pandora.com/">Pandora</a></li>
-			<li><a href="http://music.yahoo.com/launchcast/station.asp?u=316190019">Launch (localstatic)</a></li>
-			<li><a href="http://music.yahoo.com/launchcast/station.asp?u=1424614547">Launch (zombie-m)</a></li>
-			<li><a href="http://www.last.fm/user/localstatic/">Last.fm</a></li>
+			<li><a href="http://finance.google.com/finance">Google</a></li>
+			<li><a href="http://finance.yahoo.com/">Yahoo</a></li>
 		</ul>
 	</div> <!-- /column -->
 	
@@ -42,6 +40,14 @@ include 'tmpl/head.php';
 	</div> <!-- /column -->
 	
 	<div class="column">
+		<h4>Music</h4>
+		<ul>
+			<li><a href="http://www.pandora.com/">Pandora</a></li>
+			<li><a href="http://music.yahoo.com/launchcast/station.asp?u=316190019">Launch (localstatic)</a></li>
+			<li><a href="http://music.yahoo.com/launchcast/station.asp?u=1424614547">Launch (zombie-m)</a></li>
+			<li><a href="http://www.last.fm/user/localstatic/">Last.fm</a></li>
+		</ul>
+
 		<h4>Social</h4>
 		<ul>
 			<li><a href="http://del.icio.us/localstatic">del.icio.us</a></li>
