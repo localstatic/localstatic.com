@@ -5,18 +5,27 @@ include 'tmpl/head.php';
 ?>
 <h2>Steep</h2>
 
-<img src="images/screenshot-steep.png" width="243" height="188" style="float: right; margin: 5px;"/>
+<div style="width: 250px; float: right">
+	<img src="images/screenshot-steep.png" width="243" height="201" style="margin: 5px;"/>
+	<img src="images/screenshot-steep-running.png" width="243" height="201" style="margin: 5px;"/>
+</div>
+
 <p>
 Steep is a tea timer application written in Python &amp; using PyGTK and Glade for the GUI. I wrote it so that I could use the same program on Linux and Windows. It runs on both platforms, assuming the prerequisites are installed. It likely will run on other platforms as well, but I have not tested this.
 </p>
+
+<h3>Features</h3>
+<ul>
+	<li>User-configurable timers</li>
+	<li>User-configurable "finished" message</li>
+</ul>
 
 <h3>To Do</h3>
 <p>
 The program works decently now, but there are some things that I will be adding to bring it to the point that it fulfills my needs better:
 </p>
 <ul>
-	<li>User-configurable timers</li>
-	<li>User-configurable "finished" message</li>
+	<li>Sorting of timers list</li>
 	<li>Optionally play a sound when finished</li>
 </ul>
 
