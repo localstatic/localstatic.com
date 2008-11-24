@@ -18,6 +18,7 @@ Steep is a tea timer application written in Python &amp; using PyGTK and Glade f
 <ul>
 	<li>User-configurable timers</li>
 	<li>User-configurable "finished" message</li>
+	<li>Optionally play a sound when finished</li>
 </ul>
 
 <h3>To Do</h3>
@@ -26,7 +27,6 @@ The program works decently now, but there are some things that I will be adding 
 </p>
 <ul>
 	<li>Sorting of timers list</li>
-	<li>Optionally play a sound when finished</li>
 </ul>
 
 <h3>Requirements</h3>
