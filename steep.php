@@ -36,6 +36,11 @@ The program works decently now, but there are some things that I will be adding 
 	<li>python-glade</li>
 </ul>
 
+<h3>Download</h3>
+<p>
+<a href="files/steep.tar.gz">Download</a>
+</p>
+
 <h3>License</h3>
 <p>The MIT License</p>
 <p>Copyright (c) 2008 Morgan Terry</p>
@@ -56,11 +61,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,<br
 
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN<br>
 THE SOFTWARE.</p>
-
-<h3>Download</h3>
-<p>
-<a href="files/steep.tar.gz">Download</a>
-</p>
 
 <?php
 include 'tmpl/foot.php';
