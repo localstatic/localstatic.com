@@ -53,6 +53,14 @@ include 'tmpl/head.php';
 		<ul>
 			<li><a href="http://del.icio.us/localstatic">del.icio.us</a></li>
 			<li><a href="http://steamcommunity.com/profiles/76561197991347345">Steam</a></li>
+			<li><a href="http://www.shelfari.com/o1517871079">Shelfari</a></li>
+		</ul>
+	</div> <!-- /column -->
+
+	<div class="column">
+		<h4>Misc</h4>
+		<ul>
+			<li><a href="http://my.ebay.com/">My eBay</a></li>
 		</ul>
 	</div> <!-- /column -->
 </div>
