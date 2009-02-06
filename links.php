@@ -11,9 +11,6 @@ include 'tmpl/head.php';
 		<h4>News</h4>
 		<ul>
 			<li><a href="https://www.google.com/reader/view/">Google Reader</a></li>
-			<!--
-			<li><a href="https://beta.bloglines.com/">Bloglines Beta</a></li>
-			-->
 			<li><a href="http://reddit.com/">reddit</a></li>
 			<li><a href="http://slashdot.org/">Slashdot</a></li>
 			<li><a href="http://digg.com/">digg</a></li>
