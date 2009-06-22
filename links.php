@@ -58,6 +58,8 @@ include 'tmpl/head.php';
 		<h4>Misc</h4>
 		<ul>
 			<li><a href="http://my.ebay.com/">My eBay</a></li>
+			<li><a href="http://maps.google.com/">Google Maps</a></li>
+			<li><a href="http://badgerandblade.com/">B&B</a></li>
 		</ul>
 	</div> <!-- /column -->
 </div>
