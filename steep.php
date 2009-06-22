@@ -27,6 +27,7 @@ The program works decently now, but there are some things that I will be adding 
 </p>
 <ul>
 	<li>Sorting of timers list</li>
+	<li>UI for adding timers &amp; editing timer properties</li>
 </ul>
 
 <h3>Requirements</h3>
