@@ -59,6 +59,7 @@ include 'tmpl/head.php';
 		<ul>
 			<li><a href="http://my.ebay.com/">My eBay</a></li>
 			<li><a href="http://maps.google.com/">Google Maps</a></li>
+			<li><a href="https://www.google.com/voice">Google Voice</a></li>
 			<li><a href="http://badgerandblade.com/">B&B</a></li>
 		</ul>
 	</div> <!-- /column -->
