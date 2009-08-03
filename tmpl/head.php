@@ -17,11 +17,11 @@
 		<div class="nocss"><a href="#content">Jump to content</a></div>
 		<ul>
 			<li><a href=".">Home</a></li>
-			<li><a href="linux.php">Linux</a></li>
-			<li><a href="geocaching.php">Geocaching</a></li>
-			<li><a href="projects.php">Projects</a></li>
-			<li><a href="links.php">Links</a></li>
-			<li><a href="contact.php">Contact</a></li>
+			<li><a href="linux">Linux</a></li>
+			<li><a href="geocaching">Geocaching</a></li>
+			<li><a href="projects">Projects</a></li>
+			<li><a href="links">Links</a></li>
+			<li><a href="contact">Contact</a></li>
 		</ul>
 	</div>
 
