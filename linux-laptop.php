@@ -11,9 +11,9 @@ include 'tmpl/head.php';
 <p>In some of these pages, you'll notice that I've had problems getting PCMCIA to work properly. It worked fine with FreeBSD, and with the old stand-alone Linux PCMCIA drivers. It would not, however, work with the kernel PCMCIA drivers. I have since discovered, through experimentation and tips from readers of this site, that there is a BIOS option that you can change to get the Linux kernel PCMCIA stuff to work. Changing the "PC Card" setting to "Cardbus / 16-bit" solves the problem. The other two options ("PCIC Compatible" and "Auto") cause the system to lock up when trying to initialize the PCMCIA card services.</p>
 
 <p>
-<a href="linux-laptop-slackware.php">Slackware</a> - This was one of my first installs on this machine.<br />
-<a href="linux-laptop-redhat.php">RedHat</a> - I had to revisit my first distribution. The installation has come quite far since then.<br />
-<a href="linux-laptop-debian.php">Debian</a> - This is my favorite distribution, and the one that I run on my primary machine.
+<a href="linux-laptop-slackware">Slackware</a> - This was one of my first installs on this machine.<br />
+<a href="linux-laptop-redhat">RedHat</a> - I had to revisit my first distribution. The installation has come quite far since then.<br />
+<a href="linux-laptop-debian">Debian</a> - This is my favorite distribution, and the one that I run on my primary machine.
 </p>
 
 <?php

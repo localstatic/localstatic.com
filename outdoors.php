@@ -5,7 +5,7 @@ include 'tmpl/head.php';
 
 ?>
 
-<a href="geocaching.php">Geocaching</a>
+<a href="geocaching">Geocaching</a>
 
 <?php
 include 'tmpl/foot.php';
