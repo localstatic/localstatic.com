@@ -41,8 +41,6 @@ include 'tmpl/head.php';
 		<h4>Music</h4>
 		<ul>
 			<li><a href="http://www.pandora.com/">Pandora</a></li>
-			<li><a href="http://music.yahoo.com/launchcast/station.asp?u=316190019">Launch (localstatic)</a></li>
-			<li><a href="http://music.yahoo.com/launchcast/station.asp?u=1424614547">Launch (zombie-m)</a></li>
 			<li><a href="http://www.last.fm/user/localstatic/">Last.fm</a></li>
 		</ul>
 
