@@ -49,6 +49,8 @@ include 'tmpl/head.php';
 			<li><a href="http://del.icio.us/localstatic">del.icio.us</a></li>
 			<li><a href="http://steamcommunity.com/profiles/76561197991347345">Steam</a></li>
 			<li><a href="http://www.shelfari.com/o1517871079">Shelfari</a></li>
+			<li><a href="http://user.gdgt.com/localstatic/">Gdgt</a></li>
+            <li><a href="http://www.facebook.com/profile.php?id=100000347252115&ref=name">Facebook</a></li>
 		</ul>
 	</div> <!-- /column -->
 
@@ -58,6 +60,7 @@ include 'tmpl/head.php';
 			<li><a href="http://my.ebay.com/">My eBay</a></li>
 			<li><a href="http://maps.google.com/">Google Maps</a></li>
 			<li><a href="https://www.google.com/voice">Google Voice</a></li>
+			<li><a href="https://wave.google.com/wave/">Google Wave</a></li>
 			<li><a href="http://badgerandblade.com/">B&B</a></li>
 		</ul>
 	</div> <!-- /column -->
