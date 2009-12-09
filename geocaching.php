@@ -7,7 +7,7 @@ include 'tmpl/head.php';
 <h3>Introduction</h3>
 
 <p>I first heard about Geocaching on <a href="http://slashdot.org/article.pl?sid=00/09/25/2030252">Slashdot</a> and have been caching off and on ever since. It's quite fun when I'm out hiking anyway to grab a list of caches in the area and try to find them while I'm up in the mountains.</p>
-<p>If you are wondering what exactly Geocaching is, check out the <a href="http://www.geocaching.com/faq.asp">FAQ</a>.</p>
+<p>If you are wondering what exactly Geocaching is, check out the <a href="http://www.geocaching.com/faq/">FAQ</a>.</p>
 
 <h3>My Caching Info</h3>
 
