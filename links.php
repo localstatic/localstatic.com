@@ -13,7 +13,6 @@ include 'tmpl/head.php';
 			<li><a href="https://www.google.com/reader/view/">Google Reader</a></li>
 			<li><a href="http://reddit.com/">reddit</a></li>
 			<li><a href="http://slashdot.org/">Slashdot</a></li>
-			<li><a href="http://digg.com/">digg</a></li>
 		</ul>
 
 		<h4>Finance</h4>
