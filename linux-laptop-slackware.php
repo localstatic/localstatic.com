@@ -30,7 +30,7 @@ include 'tmpl/head.php';
 	The installation was fairly easy.  The first thing I did was make my boot/root disk set.  After booting off those, I partitioned my disk.  Here is how I have my disk set up:
 </p>
 
-<table cellpadding=10 border=1>
+<table class="grid">
 	<tr><td>device name</td><td>size</td><td>type</td><td>mount point</td></tr>
 	<tr><td>/dev/hda1</td><td>1024 MB</td><td>FAT</td><td>--</td></tr>
 	<tr><td>/dev/hda5</td><td>128  MB</td><td>Linux Swap</td><td>--</td></tr>
@@ -55,7 +55,6 @@ include 'tmpl/head.php';
 
 <h3>Modem</h3>
 <p>
-
 	I had just planned on getting a PC Card modem for my machine.  It didn't even occur to me that I would be able to get the built-in one working.  That was until someone on the Linux Laptop mailing list told me about the Lucent driver.  You'll have to download the driver from <a href="http://www.linmodems.org/">linmodem.org</a>.  It's a kernel module, so you'll have to have loadable module support built into your kernel (If you don't know what this means, you probably have support built in.  It's in most of the standard distributions' default kernels).
 </p>
 

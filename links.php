@@ -66,10 +66,14 @@ include 'tmpl/head.php';
 </div>
 
 <div id="search">
-	<form method="get" action="http://www.google.com/search">
-		<a href="http://www.google.com/"><img src="images/google_25wht.png" style="border: 0; width: 75px; height: 32px; vertical-align: middle;" alt="Google" /></a>
-		<input type="text" name="q" size="25" maxlength="255" value="" />
-		<input type="submit" name="btnG" value="Go" />
+	<div style="width: 80px; float: left;">
+		<a href="http://www.google.com/"><img src="images/google_25wht.png" style="border: 0; width: 75px; height: 32px;" alt="Google" /></a>
+	</div>
+	<form method="get" action="http://www.google.com/search" style="float: left;">
+		<fieldset style="border: 0; padding: 0;">
+			<input type="text" name="q" size="25" maxlength="255" value="" />
+			<input type="submit" name="btnG" value="Go" />
+		</fieldset>
 	</form>
 </div> <!-- /search -->
 

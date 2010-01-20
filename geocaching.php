@@ -11,8 +11,8 @@ include 'tmpl/head.php';
 
 <h3>My Caching Info</h3>
 
-<p>My current stats are:<br>
-<a href="http://www.geocaching.com/profile/?guid=355b0b16-6571-463a-9a1e-b7287e5dc93e" target="_blank"><img src="http://img.geocaching.com/stats/img.aspx?txt=Let's+go+geocaching&uid=355b0b16-6571-463a-9a1e-b7287e5dc93e&bg=2" border="0" title="Profile for localstatic" alt="Profile for localstatic"></a></p>
+<p>My current stats:<br />
+<a href="http://www.geocaching.com/profile/?guid=355b0b16-6571-463a-9a1e-b7287e5dc93e"><img src="http://img.geocaching.com/stats/img.aspx?txt=Let's+go+geocaching&amp;uid=355b0b16-6571-463a-9a1e-b7287e5dc93e&amp;bg=2" title="Profile for localstatic" alt="Profile for localstatic" /></a></p>
 <p>I use a <a href="http://www.garmin.com/products/etrexLegend/">Garmin eTrex Legend</a>, along with my <a href="http://www.handspring.com/">Handspring</a> Visor.</p>
 
 <h3>Geocaching and Linux</h3>
@@ -33,7 +33,7 @@ include 'tmpl/head.php';
 	<li><a href="http://geotoad.sourceforge.net/">GeoToad</a> - Can download caches to a lot of different formats</li>
 </ul>
 
-<p><a href="http://www.geocaching.com/"><img src="images/geocaching.png" alt="Let's Go Geocaching" border="0" width="88" height="31" /></a></p>
+<p><a href="http://www.geocaching.com/"><img src="images/geocaching.png" alt="Let's Go Geocaching" width="88" height="31" /></a></p>
 
 <?php
 include 'tmpl/foot.php';
