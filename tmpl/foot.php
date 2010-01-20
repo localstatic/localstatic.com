@@ -1,10 +1,6 @@
 
 	</div> <!-- /content -->
 
-	<div id="secondary">
-
-	</div>
-
 	<div id="footer">
 		<div id="meta">
 			<a href="mailto:localstatic@localstatic.com">Morgan Terry</a><br/>
