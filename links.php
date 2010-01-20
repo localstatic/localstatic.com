@@ -49,7 +49,7 @@ include 'tmpl/head.php';
 			<li><a href="http://steamcommunity.com/profiles/76561197991347345">Steam</a></li>
 			<li><a href="http://www.shelfari.com/o1517871079">Shelfari</a></li>
 			<li><a href="http://user.gdgt.com/localstatic/">Gdgt</a></li>
-            <li><a href="http://www.facebook.com/profile.php?id=100000347252115&ref=name">Facebook</a></li>
+            <li><a href="http://www.facebook.com/profile.php?id=100000347252115&amp;ref=name">Facebook</a></li>
 		</ul>
 	</div> <!-- /column -->
 
@@ -60,14 +60,14 @@ include 'tmpl/head.php';
 			<li><a href="http://maps.google.com/">Google Maps</a></li>
 			<li><a href="https://www.google.com/voice">Google Voice</a></li>
 			<li><a href="https://wave.google.com/wave/">Google Wave</a></li>
-			<li><a href="http://badgerandblade.com/">B&B</a></li>
+			<li><a href="http://badgerandblade.com/">B&amp;B</a></li>
 		</ul>
 	</div> <!-- /column -->
 </div>
 
 <div id="search">
 	<form method="get" action="http://www.google.com/search">
-		<a href="http://www.google.com/"><img src="images/google_25wht.png" border="0" alt="Google" align="middle" width="75" height="32" /></a>
+		<a href="http://www.google.com/"><img src="images/google_25wht.png" style="border: 0; width: 75px; height: 32px; vertical-align: middle;" alt="Google" /></a>
 		<input type="text" name="q" size="25" maxlength="255" value="" />
 		<input type="submit" name="btnG" value="Go" />
 	</form>
