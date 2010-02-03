@@ -3,7 +3,7 @@
 <head>
 	<title>localstatic.com<?php if ("" != $page_title) echo " - " . htmlentities($page_title); ?></title>
 	<link rel="stylesheet" type="text/css" href="style.css"/>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 </head>
 <body>
 
