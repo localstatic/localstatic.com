@@ -32,6 +32,8 @@ include 'tmpl/head.php';
 			<li><a href="http://www.w3.org/TR/xhtml1/">XHTML 1.0</a></li>
 			<li><a href="http://www.w3.org/TR/CSS21/">CSS 2</a></li>
 			<li><a href="http://msdn.microsoft.com/en-us/library/aa155110.aspx">MS HTML/CSS</a></li>
+			<li><a href="http://docs.jquery.com/Main_Page">jQuery</a></li>
+			<li><a href="http://www.framework.zend.com/manual/en/">Zend Framework</a></li>
 			<li><a href="http://java.sun.com/j2se/1.5.0/docs/api/">Java API</a></li>
 		</ul>
 	</div> <!-- /column -->
