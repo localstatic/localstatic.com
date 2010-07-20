@@ -60,6 +60,7 @@ include 'tmpl/head.php';
 			<li><a href="http://maps.google.com/">Google Maps</a></li>
 			<li><a href="https://www.google.com/voice">Google Voice</a></li>
 			<li><a href="http://badgerandblade.com/">B&amp;B</a></li>
+			<li><a href="http://www.weightwatchers.com/plan/mgr/PlanManager.aspx?deepLink=deepLinkToFoodTracker">WW Plan Manager</a></li>
 		</ul>
 	</div> <!-- /column -->
 </div>
