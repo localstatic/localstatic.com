@@ -56,9 +56,10 @@ include 'tmpl/head.php';
 	<div class="column">
 		<h4>Misc</h4>
 		<ul>
-			<li><a href="http://my.ebay.com/">My eBay</a></li>
+			<li><a href="http://market.android.com/">Android Market</a></li>
 			<li><a href="http://maps.google.com/">Google Maps</a></li>
 			<li><a href="https://www.google.com/voice">Google Voice</a></li>
+			<li><a href="http://my.ebay.com/">My eBay</a></li>
 			<li><a href="http://badgerandblade.com/">B&amp;B</a></li>
 			<li><a href="http://www.weightwatchers.com/plan/mgr/PlanManager.aspx?deepLink=deepLinkToFoodTracker">WW Plan Manager</a></li>
 		</ul>
