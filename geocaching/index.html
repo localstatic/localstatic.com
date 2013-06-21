@@ -1,9 +1,7 @@
-<?php
-$page_title = 'Geocaching';
-
-include 'tmpl/head.php';
-?>
-
+---
+layout: default
+title: "Geocaching"
+---
 <h3>Introduction</h3>
 
 <p>I first heard about Geocaching on <a href="http://slashdot.org/article.pl?sid=00/09/25/2030252">Slashdot</a> and have been caching off and on ever since. It's quite fun when I'm out hiking anyway to grab a list of caches in the area and try to find them while I'm up in the mountains.</p>
@@ -33,9 +31,5 @@ include 'tmpl/head.php';
 	<li><a href="http://geotoad.sourceforge.net/">GeoToad</a> - Can download caches to a lot of different formats</li>
 </ul>
 
-<p><a href="http://www.geocaching.com/"><img src="images/geocaching.png" alt="Let's Go Geocaching" width="88" height="31" /></a></p>
-
-<?php
-include 'tmpl/foot.php';
-?>
+<p><a href="http://www.geocaching.com/"><img src="{{ site.baseurl }}images/geocaching.png" alt="Let's Go Geocaching" width="88" height="31" /></a></p>
 

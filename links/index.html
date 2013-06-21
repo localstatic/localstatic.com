@@ -1,9 +1,7 @@
-<?php
-$page_title = 'Links';
-
-include 'tmpl/head.php';
-?>
-
+---
+layout: default
+title: "links"
+---
 <div>
 	<p>I use this page as my browsers' home page. It is designed accordingly.</p>
 	
@@ -66,7 +64,7 @@ include 'tmpl/head.php';
 
 <div id="search">
 	<div style="width: 80px; float: left;">
-		<a href="http://www.google.com/"><img src="images/google_25wht.png" style="border: 0; width: 75px; height: 32px;" alt="Google" /></a>
+		<a href="http://www.google.com/"><img src="{{ site.baseurl }}images/google_25wht.png" style="border: 0; width: 75px; height: 32px;" alt="Google" /></a>
 	</div>
 	<form method="get" action="http://www.google.com/search" style="float: left;">
 		<fieldset style="border: 0; padding: 0;">
@@ -75,9 +73,3 @@ include 'tmpl/head.php';
 		</fieldset>
 	</form>
 </div> <!-- /search -->
-
-<?php
-include 'tmpl/foot.php';
-?>
-
-
