@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localstatic.com/categories/</loc>
+    <loc>https://localstatic.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://localstatic.com/</loc>
+    <loc>https://localstatic.com/</loc>
   </url>
   
   <url>
-    <loc>http://localstatic.com/tags/</loc>
+    <loc>https://localstatic.com/tags/</loc>
   </url>
   
 </urlset>
