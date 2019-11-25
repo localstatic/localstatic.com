@@ -4,7 +4,7 @@ https://keybase.io/localstatic
 
 I hereby claim:
 
-  * I am an admin of http://www.localstatic.com
+  * I am an admin of https://localstatic.com
   * I am localstatic (https://keybase.io/localstatic) on keybase.
   * I have a public key ASD2tP8IInOXATbLzv0E5qMiq6r5vh8NF8t3tv_FK8zswwo
 
@@ -20,32 +20,33 @@ To do so, I am signing this object:
       "username": "localstatic"
     },
     "merkle_root": {
-      "ctime": 1508983356,
-      "hash": "6814f90e8ada721758c19326b647e37fa4fba63bf78dc875cbaab402a8e061745c24218d0e3cb79be751fbdb482613ae7f5837d57922800431558119eecf7a3c",
-      "hash_meta": "b06f6a8b1c576d32cef0eb5408ea8af79e86f6eee15037eeb1acfe091cfe6796",
-      "seqno": 1630754
+      "ctime": 1574658383,
+      "hash": "f5293643806300e27f6470989e9df26193edf4be80f0bd7b2e14253380c118d033ae1f77bc21175e03ee6135f93101851607eaa5e4d0e3538f66f26a09d0513a",
+      "hash_meta": "a4e0700a0b1373b099b3eabe78e9c88b6d79b69f3796028344365f67364256dd",
+      "seqno": 10785085
     },
     "service": {
-      "hostname": "www.localstatic.com",
-      "protocol": "http:"
+      "entropy": "QoA/FonJnlxQqupkXQ854bNY",
+      "hostname": "localstatic.com",
+      "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "1.0.33"
+    "version": "5.0.0"
   },
-  "ctime": 1508983388,
+  "ctime": 1574658396,
   "expire_in": 504576000,
-  "prev": "82b3f130f991318bf1b84a9b297fbef316290d95f13d0005577eb077f2876873",
-  "seqno": 18,
+  "prev": "80504f8afb1054d03dc2a8474c4a280533c3f858219ae598016e10034aa73af1",
+  "seqno": 24,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9rT/CCJzlwE2y879BOajIquq+b4fDRfLd7b/xSvM7MMKp3BheWxvYWTFA057ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwM2U4ZDZkOTc0NGE3ZmM4ZDM1NWMwNzkxZTkyODQ0ZmVhYzAyNmQ2ZGQyMDQ5M2MwNWFjYTliYjdlYzMzZDI1MDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjZiNGZmMDgyMjczOTcwMTM2Y2JjZWZkMDRlNmEzMjJhYmFhZjliZTFmMGQxN2NiNzdiNmZmYzUyYmNjZWNjMzBhIiwidWlkIjoiYmUzMTQ5M2Y3MGFmMmFhYzM2ODFlOWE3MzQ1YzBjMTkiLCJ1c2VybmFtZSI6ImxvY2Fsc3RhdGljIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA4OTgzMzU2LCJoYXNoIjoiNjgxNGY5MGU4YWRhNzIxNzU4YzE5MzI2YjY0N2UzN2ZhNGZiYTYzYmY3OGRjODc1Y2JhYWI0MDJhOGUwNjE3NDVjMjQyMThkMGUzY2I3OWJlNzUxZmJkYjQ4MjYxM2FlN2Y1ODM3ZDU3OTIyODAwNDMxNTU4MTE5ZWVjZjdhM2MiLCJoYXNoX21ldGEiOiJiMDZmNmE4YjFjNTc2ZDMyY2VmMGViNTQwOGVhOGFmNzllODZmNmVlZTE1MDM3ZWViMWFjZmUwOTFjZmU2Nzk2Iiwic2Vxbm8iOjE2MzA3NTR9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LmxvY2Fsc3RhdGljLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDg5ODMzODgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiODJiM2YxMzBmOTkxMzE4YmYxYjg0YTliMjk3ZmJlZjMxNjI5MGQ5NWYxM2QwMDA1NTc3ZWIwNzdmMjg3Njg3MyIsInNlcW5vIjoxOCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBUWiOJOVmo12BJG87WJDdIcxSY8jYHlrwUHnVHaryDtLyIWjHqBfFstBobJiXGwaueS1dwUnsqjUyyY5s91eoMqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgmnoE78wlqAFE49ud9Xr9XrI6JI8Rkk1vnyvtLxBvd/WjdGFnzQICp3ZlcnNpb24B
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9rT/CCJzlwE2y879BOajIquq+b4fDRfLd7b/xSvM7MMKp3BheWxvYWTESpcCGMQggFBPivsQVNA9wqhHTEooBTPD+FghmuWYAW4QA0qnOvHEIM411rT9euh/nnooTadm7VIg05h+PY1njZe+W1B/IF/LAgHCo3NpZ8RAoM/f/ef3EX+d8CQcHuOK7Ghqch08XLkkGDzq94kLi0M5sT8O7zZa9L0LIsCal/CSFtdDcSJSzaFdPs+BnHYHD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKxCNYsn3PcmQJTgQINDAiodpO8+XRxp8F9bljvwKhFCo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.

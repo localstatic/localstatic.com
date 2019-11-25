@@ -1,4 +1,4 @@
-baseURL = "http://localstatic.com/"
+baseURL = "https://localstatic.com/"
 languageCode = "en-us"
 title = "localstatic"
 theme = "hermit"
