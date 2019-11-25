@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/localstatic
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.localstatic.com
+  * I am localstatic (https://keybase.io/localstatic) on keybase.
+  * I have a public key ASD2tP8IInOXATbLzv0E5qMiq6r5vh8NF8t3tv_FK8zswwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203e8d6d9744a7fc8d355c0791e92844feac026d6dd20493c05aca9bb7ec33d2500a",
+      "host": "keybase.io",
+      "kid": "0120f6b4ff082273970136cbcefd04e6a322abaaf9be1f0d17cb77b6ffc52bccecc30a",
+      "uid": "be31493f70af2aac3681e9a7345c0c19",
+      "username": "localstatic"
+    },
+    "merkle_root": {
+      "ctime": 1508983356,
+      "hash": "6814f90e8ada721758c19326b647e37fa4fba63bf78dc875cbaab402a8e061745c24218d0e3cb79be751fbdb482613ae7f5837d57922800431558119eecf7a3c",
+      "hash_meta": "b06f6a8b1c576d32cef0eb5408ea8af79e86f6eee15037eeb1acfe091cfe6796",
+      "seqno": 1630754
+    },
+    "service": {
+      "hostname": "www.localstatic.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1508983388,
+  "expire_in": 504576000,
+  "prev": "82b3f130f991318bf1b84a9b297fbef316290d95f13d0005577eb077f2876873",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9rT/CCJzlwE2y879BOajIquq+b4fDRfLd7b/xSvM7MMKp3BheWxvYWTFA057ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwM2U4ZDZkOTc0NGE3ZmM4ZDM1NWMwNzkxZTkyODQ0ZmVhYzAyNmQ2ZGQyMDQ5M2MwNWFjYTliYjdlYzMzZDI1MDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjZiNGZmMDgyMjczOTcwMTM2Y2JjZWZkMDRlNmEzMjJhYmFhZjliZTFmMGQxN2NiNzdiNmZmYzUyYmNjZWNjMzBhIiwidWlkIjoiYmUzMTQ5M2Y3MGFmMmFhYzM2ODFlOWE3MzQ1YzBjMTkiLCJ1c2VybmFtZSI6ImxvY2Fsc3RhdGljIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA4OTgzMzU2LCJoYXNoIjoiNjgxNGY5MGU4YWRhNzIxNzU4YzE5MzI2YjY0N2UzN2ZhNGZiYTYzYmY3OGRjODc1Y2JhYWI0MDJhOGUwNjE3NDVjMjQyMThkMGUzY2I3OWJlNzUxZmJkYjQ4MjYxM2FlN2Y1ODM3ZDU3OTIyODAwNDMxNTU4MTE5ZWVjZjdhM2MiLCJoYXNoX21ldGEiOiJiMDZmNmE4YjFjNTc2ZDMyY2VmMGViNTQwOGVhOGFmNzllODZmNmVlZTE1MDM3ZWViMWFjZmUwOTFjZmU2Nzk2Iiwic2Vxbm8iOjE2MzA3NTR9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LmxvY2Fsc3RhdGljLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDg5ODMzODgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiODJiM2YxMzBmOTkxMzE4YmYxYjg0YTliMjk3ZmJlZjMxNjI5MGQ5NWYxM2QwMDA1NTc3ZWIwNzdmMjg3Njg3MyIsInNlcW5vIjoxOCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBUWiOJOVmo12BJG87WJDdIcxSY8jYHlrwUHnVHaryDtLyIWjHqBfFstBobJiXGwaueS1dwUnsqjUyyY5s91eoMqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgmnoE78wlqAFE49ud9Xr9XrI6JI8Rkk1vnyvtLxBvd/WjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/localstatic
+
+==================================================================
